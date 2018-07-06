@@ -1,0 +1,8 @@
+{
+    "name": "pulumi-aws-js-sqs-discord",
+    "dependencies": {
+        "@pulumi/aws": "latest",
+        "@pulumi/aws-serverless": "latest",
+        "@pulumi/pulumi": "latest"
+    }
+}

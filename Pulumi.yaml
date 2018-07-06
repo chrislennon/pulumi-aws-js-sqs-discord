@@ -1,0 +1,3 @@
+name: pulumi-aws-js-sqs-discord
+description: Post to Discord webhook for each SQS message!
+runtime: nodejs
